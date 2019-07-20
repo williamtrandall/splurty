@@ -1,4 +1,5 @@
 @import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
 
 .clear {
   clear: both;
@@ -34,10 +35,20 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'aileronbold';
+  font-weight: bold;
 }
 header {
   border-top: 9px solid #222222;
 }
 hr {
  clear: both; 
+}
+h1 {
+  font-family: 'aileronbold';
+  font-weight: bold;
+  font-size: 48px;
+}
+h2 {
+  font-family: 'aileronbold_italic';
 }
